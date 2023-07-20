@@ -1,0 +1,55 @@
+h1{color: #8A4252;
+    font-family: Frank ruhl libre;
+}
+td {
+    font-size: 20px;
+    border: solid 5px #FFF3E2;
+}
+
+table{
+   height: 100px ;
+   width: 1225px;
+   padding: 10px;
+    border: solid 4px #AF5A6C;
+border-collapse: separate;
+border-spacing: 0;
+    background-color: #FFEADD ;
+    font-family: 'Frank ruhl libre';
+
+    border-radius: 15px;
+    margin-left: 1% ;
+}
+table tr:last-child td:last-child {
+    border-bottom-right-radius: 15px;
+}
+.alb img {
+    width: 300px;
+    height: auto;
+}
+
+body{
+    text-align: center;
+    background-color: #FCAEAE;
+    font-family: Frank ruhl libre;
+}
+
+.Merchandise img {width: 300px;
+    height: auto   ;}
+.Merchandise td {
+    border: solid 4px #FFEADD}
+
+a:link {
+    color: #964A5D;
+}
+
+a:visited {
+    color: #964A5D;
+}
+
+a:hover {
+    color: #FB9D9D;
+}
+
+a:active {
+    color: #964A5D;
+}

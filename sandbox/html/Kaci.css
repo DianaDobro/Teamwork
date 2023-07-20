@@ -1,0 +1,40 @@
+
+.katy1 {
+    
+    background-color: #fa9292;
+    border: solid 4px #AF5A6C;
+    border-radius: 15px;
+}
+
+.katy2 {
+    background-color: #FFEADD;
+    border: solid 4px #AF5A6C;
+    border-radius: 15px;
+}
+
+.katy3 {
+    background-color: #FFF3E2;
+    border: solid 4px #AF5A6C;
+    border-radius: 15px;
+}
+
+.katy4 {
+    background-color: #FFEADD;
+    border: solid 4px #AF5A6C;
+    border-radius: 15px;
+}
+
+body {
+    background-color: #FCAEAE;
+    text-align: center;
+    font-family: 'Frank Ruhl Libre';
+}
+
+img {
+    height: 175px;
+}
+
+img {
+    border: solid 4px #AF5A6C;
+    border-radius: 6px;
+}
