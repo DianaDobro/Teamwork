@@ -34,7 +34,15 @@ body{
 }
 
 .Merchandise img {width: 300px;
-    height: auto   ;}
+    height: 300px;
+    margin: 2px;
+    border-radius: 15px  ;}
+.Merchandise img:hover{
+    margin: 4px;
+    height: 296px;
+    width: 296px;
+    }
+
 .Merchandise td {
     border: solid 4px #FFEADD}
 

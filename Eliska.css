@@ -1,5 +1,5 @@
 
-* {
+html {
     text-indent: 50px;
     background-color: #FFEADD;
 }
@@ -12,15 +12,14 @@
 }
 .banner{
     position: absolute;
-    right: 60px;
-    left: 60px;
+    right: 3.5px;
+    left: 3.5px;
     top: 150px;
-    border-radius: 50px;
+    border-radius: 15px;
 }
 .slogan1{
-    background-color: #FFF3E2;
     position: absolute;
-    right: 500px;
+    left: 60px;
     top: 275px;
     border-radius: 50px;
     color: #af5a6c;
@@ -29,10 +28,9 @@
 }
 .slogan2{
     position: absolute;
-    right: 650px;
+    left: 110px;
     top: 325px;
     border-radius: 50px;
-    background-color: #FFF3E2;
     color: #af5a6c;
     font-size: 2rem;
     font-family:Frank Ruhl Libre;
@@ -94,7 +92,7 @@ text-decoration: underline;
     font-size: 2rem;
 }
 
-.album{
+.album_E{
     position: absolute;
     right: 425px;
     top: 110px;
@@ -175,29 +173,107 @@ B{
 .about_me_nadpis{
     position: absolute;
     right: 550px;
-    top: 1300px;
+    top: -20px;
     color: #af5a6c;
     font-size: 2.5rem;
 }
 .text_biografie{
-    background-color: #af5a6c;
+    background-color:#fcaeae;
     position: absolute;
     left: 60px;
     right: 60px;
-    top: 1400px;
-    color: #FFEADD;
+    top: 100px;
+    color:#af5a6c;
     border-radius: 15px;
     font-size: 1.5rem;
     font-family: Frank Ruhl Libre;
 }
 .read_more{
-    background-color: #af5a6c;
-    color: #FFEADD;
+    background-color:#fcaeae;
+    color:#af5a6c;
     position: absolute;
     right: 60px;
     left: 410px;
-    top: 150px;
+    top: 155px;
     border-radius: 15px;
     font-size: 1.5rem;
     font-family: Frank Ruhl Libre;
 }
+img.album{
+    display:flex;
+    align-items: center;
+    height: 310px;
+    width: 310px;
+    margin: 2px;
+    border-radius: 10px;
+  }
+  
+  img.album:hover{
+    margin: 4px;
+    height: 306px;
+    width: 306px;
+  
+  }
+  
+  div.orange{
+    display: flex;
+    height: 450px;
+    justify-content: space-around;
+    background-color:#af5a6c;
+    flex-wrap: wrap;
+    border-radius: 15px;
+    position: relative;
+    top: 600px;
+  }
+  
+  .orange p{
+    flex-basis: 100%;
+    margin: 3.5px;
+  }
+  
+  p.Albums{
+    font-size: 2.5rem;
+    display: flex;
+    justify-content: center;
+    color:#fff3e2;
+  }
+  div.biografie{
+    display: flex;
+    height: 350px;
+    justify-content: space-around;
+    background-color:#fcaeae;
+    flex-wrap: wrap;
+    border-radius: 15px;
+    position: relative;
+    top: 600px;
+  }
+  .merch{
+    display: flex;
+    height: 500px;
+    justify-content: space-around;
+    background-color:#FFF3E2;
+    flex-wrap: wrap;
+    border-radius: 15px;
+    position: relative;
+    top: 600px;
+  }
+  .merch_img{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    border-radius: 15px;
+  }
+  .napis_shop{
+    position: absolute;
+    left: 500px;
+    top: 5px;
+    font-size: 2rem;
+    color: #af5a6c;
+  }
+  .pay_here{
+    font-size: 2rem;
+    color: #af5a6c;
+    position: absolute;
+    left: 500px;
+    top: 200px;
+  }
