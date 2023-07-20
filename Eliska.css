@@ -12,7 +12,8 @@
 }
 .banner{
     position: absolute;
-    right: 75px;
+    right: 60px;
+    left: 60px;
     top: 150px;
     border-radius: 50px;
 }
@@ -57,15 +58,13 @@ h1{
 }
 a:link {
     font-family:Frank Ruhl Libre;
-    font-size: 2rem;
     text-decoration: none;
-    color:#af5a6c;
+
 }
 a:visited{
     font-family:Frank Ruhl Libre;
-    font-size: 2rem;
     text-decoration: none;
-    color:#af5a6c;
+    
 
 }
 a:hover {
@@ -75,30 +74,40 @@ text-decoration: underline;
     position: absolute;
     right: 1025px;
     top: 110px;
+    color: #af5a6c;
+    font-size: 2rem;
 }
 
 .about{
     position: absolute;
     right: 825px;
     top: 110px;
+    color: #af5a6c;
+    font-size: 2rem;
 }
 
 .concert{
     position: absolute;
     right: 625px;
     top: 110px;
+    color: #af5a6c;
+    font-size: 2rem;
 }
 
 .album{
     position: absolute;
     right: 425px;
     top: 110px;
+    color: #af5a6c;
+    font-size: 2rem;
 }
 
 .shop{
     position: absolute;
     right: 225px;
     top: 110px;
+    color: #af5a6c;
+    font-size: 2rem;
 }
 
 .icon_home{
@@ -153,7 +162,7 @@ text-decoration: underline;
 .apple{
     position: absolute;
     right: 150px;
-    top: 10px;
+    top: 12px;
 }
 .spotify{
     position: absolute;
@@ -162,4 +171,33 @@ text-decoration: underline;
 }
 B{
     background-color: #FFEADD;
+}
+.about_me_nadpis{
+    position: absolute;
+    right: 550px;
+    top: 1300px;
+    color: #af5a6c;
+    font-size: 2.5rem;
+}
+.text_biografie{
+    background-color: #af5a6c;
+    position: absolute;
+    left: 60px;
+    right: 60px;
+    top: 1400px;
+    color: #FFEADD;
+    border-radius: 15px;
+    font-size: 1.5rem;
+    font-family: Frank Ruhl Libre;
+}
+.read_more{
+    background-color: #af5a6c;
+    color: #FFEADD;
+    position: absolute;
+    right: 60px;
+    left: 410px;
+    top: 150px;
+    border-radius: 15px;
+    font-size: 1.5rem;
+    font-family: Frank Ruhl Libre;
 }
