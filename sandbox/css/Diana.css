@@ -77,8 +77,40 @@ td.dog {
   font-size: 1.3rem;
 }
 
-/* img.img11 {
+
+img.album{
+  display:flex;
+  align-items: center;
+  height: 310px;
+  width: 310px;
+  margin: 2px;
+  border-radius: 10px;
+}
+
+img.album:hover{
+  margin: 4px;
+  height: 306px;
+  width: 306px;
+
+}
+
+div.orange{
+  display: flex;
+  height: 420px;
+  justify-content: space-around;
+  background-color:#af5a6c;
+  flex-wrap: wrap;
+  border-radius: 15px;
+}
+
+.orange p{
+  flex-basis: 100%;
+  margin: 3.5px;
+}
+
+p.Albums{
+  font-size: 2.5rem;
   display: flex;
   justify-content: center;
-  align-items: center;
-} */
+  color:#fff3e2;
+}
