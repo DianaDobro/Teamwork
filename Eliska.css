@@ -1,0 +1,165 @@
+
+* {
+    text-indent: 50px;
+    background-color: #FFEADD;
+}
+
+.katy_perry {
+    position: absolute;
+    right: 100px;
+    top: 175px;
+    border-radius: 50px;
+}
+.banner{
+    position: absolute;
+    right: 75px;
+    top: 150px;
+    border-radius: 50px;
+}
+.slogan1{
+    background-color: #FFF3E2;
+    position: absolute;
+    right: 500px;
+    top: 275px;
+    border-radius: 50px;
+    color: #af5a6c;
+    font-size: 2rem;
+    font-family:Frank Ruhl Libre;
+}
+.slogan2{
+    position: absolute;
+    right: 650px;
+    top: 325px;
+    border-radius: 50px;
+    background-color: #FFF3E2;
+    color: #af5a6c;
+    font-size: 2rem;
+    font-family:Frank Ruhl Libre;
+}
+.autor{
+    position: absolute;
+    right: 800px;
+    top: 375px;
+    border-radius: 50px;
+    background-color: #FFF3E2;
+    color: #af5a6c;
+    font-size: 1rem;
+    font-family:Frank Ruhl Libre;
+}
+h1{
+    position: absolute;
+    right: 550px;
+    top: 5px;
+    font-family:Frank Ruhl Libre;
+    font-size: 3rem;
+    color:#af5a6c;
+
+}
+a:link {
+    font-family:Frank Ruhl Libre;
+    font-size: 2rem;
+    text-decoration: none;
+    color:#af5a6c;
+}
+a:visited{
+    font-family:Frank Ruhl Libre;
+    font-size: 2rem;
+    text-decoration: none;
+    color:#af5a6c;
+
+}
+a:hover {
+text-decoration: underline;
+}
+.home{
+    position: absolute;
+    right: 1025px;
+    top: 110px;
+}
+
+.about{
+    position: absolute;
+    right: 825px;
+    top: 110px;
+}
+
+.concert{
+    position: absolute;
+    right: 625px;
+    top: 110px;
+}
+
+.album{
+    position: absolute;
+    right: 425px;
+    top: 110px;
+}
+
+.shop{
+    position: absolute;
+    right: 225px;
+    top: 110px;
+}
+
+.icon_home{
+    position: absolute;
+    right: 990px;
+    top: 120px;
+}
+
+.icon_about{
+    position: absolute;
+    right: 790px;
+    top: 120px;
+}
+
+.icon_concert{
+    position: absolute;
+    right: 590px;
+    top: 115px;
+}
+
+.icon_album{
+    position: absolute;
+    right: 390px;
+    top: 120px;
+}
+
+.icon_shop{
+    position: absolute;
+    right: 190px;
+    top: 118px;
+}
+.snapchat{
+    position: absolute;
+    right: 10px;
+    top: 15px;
+}
+.facebook{
+    position: absolute;
+    right: 45px;
+    top: 15px;
+}
+.instagram{
+    position: absolute;
+    right: 80px;
+    top: 15px;
+}
+.youtube{
+    position: absolute;
+    right: 115px;
+    top: 15px;
+}
+.apple{
+    position: absolute;
+    right: 150px;
+    top: 10px;
+}
+.spotify{
+    position: absolute;
+    right: 185px;
+    top: 15px;
+}
+B{
+    
+}
