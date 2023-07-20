@@ -114,3 +114,10 @@ p.Albums{
   justify-content: center;
   color:#fff3e2;
 }
+
+div.Concerts{
+  background-color:#fcaeae;
+  display: flex;
+  height: 420px;
+  border-radius: 15px;
+}
